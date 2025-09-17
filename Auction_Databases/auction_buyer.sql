@@ -41,7 +41,7 @@ CREATE TABLE `buyer` (
 
 LOCK TABLES `buyer` WRITE;
 /*!40000 ALTER TABLE `buyer` DISABLE KEYS */;
-INSERT INTO `buyer` VALUES (11,'Ramu Kathula','ramukathula89@gmail.com',9701101523,'WhatsApp Image 2025-03-03 at 20.46.48.jpeg','male','444907'),(14,'LAKSHMAN','lakshmankathula507@gmail.com',7893828599,'img.jpg','male','916235');
+INSERT INTO `buyer` VALUES (11,'Ramu Kathula','ramukathula89@gmail.com',9701101513,'null'),(14,'LAKSHMAN','lakshmankathula507@gmail.com',7893828599,'null','male','916235');
 /*!40000 ALTER TABLE `buyer` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
