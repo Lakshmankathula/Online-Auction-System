@@ -39,7 +39,7 @@ CREATE TABLE `sellers` (
 
 LOCK TABLES `sellers` WRITE;
 /*!40000 ALTER TABLE `sellers` DISABLE KEYS */;
-INSERT INTO `sellers` VALUES ('Lakshman Kathula','lakshmankathula507@gmail.com',7893828599,'male','WhatsApp Image 2025-03-03 at 13.41.32.jpeg','872886'),('Ramu Kathula','ramukathula89@gmail.com',9701101523,'male','WhatsApp Image 2025-03-03 at 20.46.48.jpeg','053916'),('Sanjay Medidi','medidisivasanjay@gmail.com',9963122619,'male','DSC_0261.JPG','287307');
+INSERT INTO `sellers` VALUES ('Lakshman Kathula','lakshmankathula507@gmail.com',789388599,'male','null','872886'),('Ramu Kathula','ramukathula819@gmail.com',97001523,'male','null','053916'),('Sanjay Medidi','medidisivasanjay@gmail.com',99634122619,'male','null','287307');
 /*!40000 ALTER TABLE `sellers` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
